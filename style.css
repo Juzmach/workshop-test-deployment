@@ -1,0 +1,23 @@
+body {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+    border: 1px solid black;
+}
+
+img {
+    width: 50%;
+    margin: auto;
+}
+
+.crop {
+    width: 600px;
+    height: 200px;
+    overflow: hidden;
+}
